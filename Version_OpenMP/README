@@ -1,0 +1,19 @@
+README VERSION_OPENMP
+1. Descarga la carpeta y guardala en algun lugar de tu preferencia.
+2. En la carpeta de cada version en donde se guardaron los archivos, se debe agregar cualquier imagen de tu preferencia(Paso crucial para que funcione el programa). De preferecia se le debe asignar un nombre facil de recordar y escribir.
+3. Abre el terminal de la distribucion de Linux.
+4. Dirigete hacia la carpeta (version) en donde se guardaron los archivos mencionados en el paso 2.
+5. Una vez dentro de la carpeta, se debe usar el comando "make" para que se compile el programa.
+6. Luego, se debe ejecutar el comando "./V_Thread" para que se ejecute el programa.
+
+7. Una vez ejecutado: 
+	-Se pedirá el nombre de la imagen que se le asigno en el paso 3 (El nombre de la imagen debe tener la extension a 
+	la cual pertenece, por ejempo: .png, .jpg, etc.).
+	-Se pedirá el nombre que tendrá la imagen en escala de grises (El nombre de la imagen debe tener la extension a 
+	la cual pertenece, por ejempo: .png, .jpg, etc.).
+	-Se pedirá el numero de hilos que se desea utilizar.
+Luego de esto, se mostrará por pantalla el tiempo de ejecucion en segundos.
+Para poder visualizar la imagen creada, ve hacia la carpeta que contiene el programa. Allí estara la imagen con el nombre que se le asignó.
+
+
+

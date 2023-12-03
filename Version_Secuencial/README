@@ -2,7 +2,7 @@ README VERSION_SECUENCIAL
 1. Descarge las carpetas y guardelas en algun lugar de su preferencia.
 2. En la carpeta de cada version en donde se guardaron los archivos, se debe agregar cualquier imagen de tu preferencia(Paso crucial para que funcione el programa). De preferecia se le debe asignar un nombre facil de recordar y escribir.
 3. Abre el terminal de la distribucion de Linux.
-4. En la terminal, dirigete hacia la carpeta (version) en donde se guardaron los archivos mencionados en el paso 2.
+4. En la terminal, dirigete hacia la carpeta (version) que desees ejecutar.
 5. Una vez dentro de la carpeta, puedes editar el archivo .cpp(solo si es que necesitas hacer algun cambio) y usar el comando "make" para que se compile el programa.
 6. Luego, se debe ejecutar el comando "./V_secuencial" para que se ejecute el programa.
 
